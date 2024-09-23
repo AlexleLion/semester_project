@@ -8,5 +8,4 @@
 - [gensim](https://pypi.org/project/gensim/)
 - [nltk](https://www.nltk.org/)
 - [numpy](https://numpy.org/)
-- [opencv](https://opencv.org/)
 - [pandas](https://pandas.pydata.org/)
