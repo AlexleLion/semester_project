@@ -2,6 +2,7 @@
 
 ## Libraries
 - [tesseract](https://github.com/tesseract-ocr/tesseract)
+- [OCR4all](https://github.com/OCR4all/OCR4all)
 - [gensim](https://pypi.org/project/gensim/)
 - [nltk](https://www.nltk.org/)
 - [numpy](https://numpy.org/)
